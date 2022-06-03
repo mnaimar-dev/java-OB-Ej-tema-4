@@ -38,9 +38,8 @@ public class EjerciciosTema4 {
 
                 while(numeroWhile < 3) {
 
-
-                    System.out.println("Número While: " + numeroWhile);
                     numeroWhile++;
+                    System.out.println("Número While: " + numeroWhile);
                 }
         
         // 3- Para el bucle Do While, deberás crear la misma estructura que en el While, 
